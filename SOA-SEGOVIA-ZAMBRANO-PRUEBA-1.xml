@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<cartelera>
+    
+    <pelicula>
+        <codigo>#PC7+2020</codigo>
+        <titulo>Mujer Maravilla 1984</titulo>
+        <año>2020</año>
+        <duracion>
+            <horas>2</horas>
+            <minutos>30</minutos>
+            <segundos>0</segundos>
+        </duracion>
+        <nacionalidad>Estadounidense</nacionalidad>
+        <genero>Fantasía</genero>
+        <clasificacion>7+</clasificacion>
+        <director>
+            <nombre>Patty</nombre>
+            <apellido>Jenkins</apellido>
+            <nacimiento>
+                <añoNac>1971</añoNac>
+                <mes>Julio</mes>
+                <dia>24</dia>
+            </nacimiento>
+        </director>
+        <reparto>
+            <actoresP>
+                <nombreReal>Gal Gadot</nombreReal>
+                <nombrePelicula>Diana Prince</nombrePelicula>
+            </actoresP>
+            <actoresP>
+                <nombreReal>Kristen Wiig</nombreReal>
+                <nombrePelicula>Cheetah</nombrePelicula>
+            </actoresP>
+            <actoresP>
+                <nombreReal>Chris Pine</nombreReal>
+                <nombrePelicula>Steve Trevor</nombrePelicula>
+            </actoresP>
+            <actoresS>
+                <nombreReal>Robin Wright</nombreReal>
+                <nombrePelicula>Antiope</nombrePelicula>
+            </actoresS>
+            <actoresS>
+                <nombreReal>Connie Nielsen</nombreReal>
+                <nombrePelicula>Hipólita</nombrePelicula>
+            </actoresS>
+            <dobles>
+                <nombreReal>Christiaan Bettridge</nombreReal>
+                <nombrePelicula>Diana Prince</nombrePelicula>
+            </dobles>
+            <dobles>
+                <nombreReal>Whitner Coleman</nombreReal>
+                <nombrePelicula>Cheetah</nombrePelicula>
+            </dobles>
+            <dobles>
+                <nombreReal>Martin Ivanov</nombreReal>
+                <nombrePelicula>Steve Trevor</nombrePelicula>
+            </dobles>
+        </reparto>
+        <sinopsis>
+            Avancemos rápidamente a la década de 1980 
+            cuando la próxima aventura en la pantalla grande de 
+            Mujer Maravilla la encuentra frente a dos enemigos 
+            completamente nuevos: Max Lord y Cheetah. 
+            Con la directora Patty Jenkins de vuelta al mando y 
+            Gal Gadot regresando en el papel principal.
+        </sinopsis> 
+    </pelicula>
+    
+</cartelera>
